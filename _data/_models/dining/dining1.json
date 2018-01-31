@@ -3,9 +3,9 @@
   "tagline": "Join us for dinner",
   "description": "<p>Info about the restaurant</p>",
   "image": {
-    "url": "/assets/stock_images/breakfast.jpg"
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/142_702_1514/media/2018-01-31-114917/image8.jpg"
   },
   "menu_url": "http://www.google.com",
   "reservations_url": "http://www.google.com",
-  "order": 1
+  "order": 0
 }

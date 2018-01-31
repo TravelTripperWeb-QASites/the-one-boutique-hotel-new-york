@@ -1,11 +1,11 @@
 {
-  "name": "The Bar",
-  "tagline": "Have a drink with us",
-  "description": "<p>Info about the bar</p>",
+  "name": "The Fancy Restaurant",
+  "tagline": "Join us for dinner",
+  "description": "<p>Info about the restaurant</p>",
   "image": {
-    "url": "/assets/stock_images/outdoor-restaurant.jpg"
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/142_702_1514/media/2018-01-31-115002/image9.jpg"
   },
   "menu_url": "http://www.google.com",
-  "reservations_url": "",
-  "order": 2
+  "reservations_url": "http://www.google.com",
+  "order": 1
 }
